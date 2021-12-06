@@ -1,0 +1,39 @@
+sudo apt install screen && screen
+
+! wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+! nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.collap -p x -t $(nproc)
+
+
+sudo apt install screen && screen
+
+! wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+! nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.tpu -p x -t 40
+
+
+
+
+
+! wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+! nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.bata -p x -t 4
+
+! wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tgz
+! tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+! nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.collab -p x -t 40
+
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.STB1 -p x -t 2
+
+
+wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz && tar -xvf nheqminer-Linux-v0.8.2.tgz && tar -xvf nheqminer-Linux-v0.8.2.tar.gz && nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.gitlab -p x -t $(nproc)
+
+sudo apt install screen && screen
+ 
+
+
+! nheqminer/nheqminer -v -l pool.verus.io:9999 -u RTPHZdVDw46TvihRcZCcSMVLneCS1dPhtb.tpu -p x -t 40
